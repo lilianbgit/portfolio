@@ -1,17 +1,23 @@
-body{
-    background: linear-gradient(90deg,#274df5,#27F53F);
-    text-shadow: 10px 9px 9px rgb(14, 14, 70);
-    
-}
-
-header nav div ul {
-    background-attachment: sticked;
+nav ul {
+    display: flex;
+    justify-content: space-around;
     background-color: burlywood;
     contain: content;
     text-align: center;
-    display: flex;
+    height: 3em;
+    width: 100%;
+    margin: 0px;
+    padding-inline-start: 0px;
 }
 
-nav ul a{
-    display:block;
+li {
+    list-style: none;
+    display: block;
+    background-color: aqua;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+div{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
