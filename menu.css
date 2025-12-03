@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(90deg,#274df5,#27F53F);
+    text-shadow: 10px 9px 9px rgb(14, 14, 70);
+    
+}
+
+header nav div ul {
+    background-attachment: sticked;
+    background-color: burlywood;
+    contain: content;
+    text-align: center;
+    display: flex;
+}
+
+nav ul a{
+    display:block;
+}
