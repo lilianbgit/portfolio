@@ -1,7 +1,7 @@
 nav ul {
     display: flex;
     justify-content: space-around;
-    background-color: green;
+    
     contain: content;
     text-align: center;
     height: 3em;
@@ -17,7 +17,7 @@ li {
 }
 
 footer{
-    background-color: black;
+    
     margin-top: 20px;
 }
 .fond{
