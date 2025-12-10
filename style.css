@@ -1,3 +1,6 @@
+header{
+    padding-top: 10px;
+}
 nav ul {
     display: flex;
     justify-content: space-around;
@@ -17,11 +20,30 @@ li {
 }
 
 footer{
-    
-    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: black;
 }
 .fond{
-    background-image: url(image/fond_ecran.jpg);
+    background-color: lightblue;
     font-size: 25px;
     color: white;
+    background-repeat:repeat;
+    margin: auto;
+}
+body main{
+    background-color: beige;
+    color: black;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+a:visited{
+    color : black;
+}
+a:hover{
+    color :blue;
 }
