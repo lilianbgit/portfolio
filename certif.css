@@ -1,0 +1,14 @@
+.block{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: gray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-position: left;
+    border-radius: 5px 20px 10px 20px ;
+    
+}
+.certif{
+    display: flex;
+    width: 20%;
+}
