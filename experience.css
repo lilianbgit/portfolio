@@ -1,0 +1,27 @@
+main p {
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+.center{
+    text-align: right;
+    display: flex;
+}
+
+h2{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 1500px 10px 1500px 10px ;
+    padding: 10px;
+}
+h3{
+    background-color: black;
+    text-align: left;
+    border-radius: 1500px 10px 1500px 10px;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.ombres{
+    box-shadow: 5px 3px 1px rgba(78, 17, 192, 0.5);
+}

@@ -2,15 +2,17 @@ img {
     width: 20%;
     height: 15%;
     background-position: left;
+    float: left;
+    padding-right: 10px;
 }
 aside{
     width: 80%;
     text-align: left;
-    background-position: right;
-    align-items: flex-end;
+    
 }
-main aside{
+main {
     display: flex;
+    padding: 15%;
 }
 
 
