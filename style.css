@@ -10,6 +10,7 @@ nav ul {
     width: 100%;
     margin: 0px;
     padding-inline-start: 0px;
+    
 }
 li {
     list-style: none;
@@ -24,14 +25,14 @@ footer{
     color: black;
 }
 .fond{
-    background-color: lightblue;
+    background-color: white;
     font-size: 25px;
     color: white;
     background-repeat:repeat;
     margin: auto;
 }
 body main{
-    background-color: beige;
+    background-color: #BBFCC0;
     color: black;
     font-size: 20px;
     padding-top: 20px;
@@ -41,11 +42,11 @@ body main{
     
 }
 a:visited{
-    color :violet;
+    color :rgb(34 126 207);
 }
 a:hover{
     color :blue;
 }
 a{
-    color: violet;
+    color: rgb(34 126 207);
 }

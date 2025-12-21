@@ -1,18 +1,18 @@
 .block{
     padding-left: 10px;
     padding-right: 10px;
-    background-color: gray;
+    background-color: white;
     padding-bottom: 10px;
     padding-top: 10px;
     background-position: left;
     border-radius: 25px 0px 25px 0px ;
     text-shadow: 2px 2px 2px rgba(109, 102, 102, 0.829);
-    box-shadow: 4px 4px 4px rgba(196, 150, 150, 0.623);
+    box-shadow: 4px 4px 4px rgb(171 0 0 / 62%)
 }
 .certif{
     display: block;
     width: auto;
-    background: linear-gradient(90deg, #6BCAD1 , #40C2C9);
+    background: linear-gradient(90deg, #6bd18a , #40C2C9);
     text-align: center;
     justify-content: space-around;
     contain: content;
@@ -22,4 +22,7 @@
 }
 h2{
     text-shadow: 2px 2px 2px rgb(0, 0, 0,0.2);
+}
+ul a{
+    margin: 5px;
 }
