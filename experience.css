@@ -6,15 +6,8 @@ main p {
     text-align: right;
     display: flex;
 }
-
-h2{
-    background-color: aqua;
-    text-align: center;
-    border-radius: 1500px 10px 1500px 10px ;
-    padding: 10px;
-}
 h3{
-    background-color: black;
+    background-color: #178f87;
     text-align: left;
     border-radius: 1500px 10px 1500px 10px;
     color: white;
@@ -25,3 +18,12 @@ h3{
 .ombres{
     box-shadow: 5px 3px 1px rgba(78, 17, 192, 0.5);
 }
+.certif2{
+    display: block;
+    width: auto;
+    text-align: center;
+    justify-content: space-around;
+    contain: content;
+    border-radius: 1000px 10px 1000px 10px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 4px 4px 4px rgba(194, 83, 83, 0.767);}
