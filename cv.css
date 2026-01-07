@@ -33,3 +33,6 @@ ul li {
 a{
     color: black;
 }
+a:visited{
+    color: black;
+}
